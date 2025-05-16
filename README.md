@@ -69,11 +69,20 @@ npx playwright test tests/<test-file-name>.spec.js
   
 - **Automation Process Recording:**
 
-  
+
+https://github.com/user-attachments/assets/1760f32e-bf2c-4307-812e-6e8f76beff70
+
+
+
+https://github.com/user-attachments/assets/954669d5-c66e-4d94-8023-2341ae5e827f
+
+
+
 - **Screenshots & Reports:**
 
-
-
+![Image (3)](https://github.com/user-attachments/assets/cb55cd9e-189b-4ddd-b9d1-ba3c4d6fe3ba)
+![Image (2)](https://github.com/user-attachments/assets/8828f3eb-9adc-42d6-8c3e-a2667fb47362)
+![Image (1)](https://github.com/user-attachments/assets/f031b863-4d54-4087-9e9c-4599f1873dc3)
 
 ---
 
