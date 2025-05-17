@@ -95,6 +95,24 @@ https://github.com/user-attachments/assets/954669d5-c66e-4d94-8023-2341ae5e827f
 ![Test Execution Screenshot 2](https://github.com/user-attachments/assets/8828f3eb-9adc-42d6-8c3e-a2667fb47362)
 ![Test Execution Screenshot 3](https://github.com/user-attachments/assets/cb55cd9e-189b-4ddd-b9d1-ba3c4d6fe3ba)
 
+## 🗂 Environment Variables (.env File)
+
+Create a `.env` file at the root of your project with the following variables:
+
+```env
+# Gmail API access token (for reading emails via automation)
+GMAIL_TOKEN=
+
+# Used for storing the latest fetched mail ID (updated dynamically)
+MAIL_ID=
+
+# Used for storing the body of the fetched mail (updated dynamically)
+MAIL_BODY=
+
+# Continuous Integration flag (used in Playwright config)
+CI=false
+```
+
 ## 📂 Project Highlights
 
 * ✅ Full E2E automation with Playwright
