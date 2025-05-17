@@ -85,8 +85,9 @@ npx playwright test tests/<test-file-name>.spec.js
 
 ### 🎬 Automation Process Recording
 
-* [Recording 1](https://github.com/user-attachments/assets/1760f32e-bf2c-4307-812e-6e8f76beff70)
-* [Recording 2](https://github.com/user-attachments/assets/954669d5-c66e-4d94-8023-2341ae5e827f)
+https://github.com/user-attachments/assets/1760f32e-bf2c-4307-812e-6e8f76beff70
+
+https://github.com/user-attachments/assets/954669d5-c66e-4d94-8023-2341ae5e827f
 
 ### 🖼 Screenshots & Reports
 
